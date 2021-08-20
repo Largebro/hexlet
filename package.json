@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Largebro/hexlet.git"
+  },
+  "author": "L.B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Largebro/hexlet/issues"
+  },
+  "homepage": "https://github.com/Largebro/hexlet#readme",
+  "type": "module",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
